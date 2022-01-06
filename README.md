@@ -1,4 +1,4 @@
-# foundersatwork
+# Founders at Work
 Curated list of awesome YC founders stories
 
 <p align="center">
